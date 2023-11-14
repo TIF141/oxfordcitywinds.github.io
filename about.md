@@ -1,2 +1,3 @@
-<h1>Example page</h1>
-<p>Example text here is some example text.</p>
+# Example page
+
+Example text here is some example text.
